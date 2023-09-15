@@ -1,4 +1,6 @@
-﻿Console.Write("Введите x: ");
+// Высокий уровень
+
+Console.Write("Введите x: ");
 double x = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите a: ");
 double a = Convert.ToDouble(Console.ReadLine());
